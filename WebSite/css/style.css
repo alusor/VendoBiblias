@@ -1,0 +1,30 @@
+.logo{
+    text-align: center;
+}
+form{
+padding: 2rem 2rem;;
+}
+.form-header{
+    background: #f44336;
+}
+.form-header .title{
+    color: snow;
+    padding: 1rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+}
+form p{
+    padding: 1rem;
+    margin-top: 2em;
+}
+footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    background: #333333;
+    color: snow;
+}
+footer .container{
+    padding:  3rem 0rem;
+}
